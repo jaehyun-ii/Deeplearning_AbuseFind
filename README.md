@@ -21,7 +21,3 @@
   다양한 한국어 전처리 라이브러리를 사용하며, 라이브러리의 특징을 이해할 수 있었고, 충분한 전처리로 인해 빠른 처리속도를 낼 수 있었다고 생각하며, 머신러닝/딥러닝에서의 데이터 전처리의 중요성을 다시 한번 깨닫게 되는 프로젝트였다. 모델을 만들고 수행결과 약 82.197%의 정확도를 보였다. 
   
   
-## DIRECTORY
-   [blockking] : Flutter application CODE
-   [fabric-blockking] : Hyperledger Fabric Chain CODE & server etc.
-   [docs] : report, poster, ppt/pdf
